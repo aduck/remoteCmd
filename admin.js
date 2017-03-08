@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 const net=require('net')
-const client=net.connect({host:'138.197.214.216',port:3000})
+const client=net.connect({port:3000})
 const argv=process.argv
 const cmd=argv.slice(2).join(' ')
 client.on('connect',()=>{
