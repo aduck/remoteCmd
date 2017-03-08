@@ -10,4 +10,4 @@
 
 4. `rcmd cmd命令`
 
-*server.js请自行配置放在自己服务器上，puppet.js和admin.js里的host别忘了一起修改*
+*server.js请自行配置放在自己服务器上，puppet.js和admin.js里的host别忘了一起修改<br>start.bat自启动什么的自行研究*
