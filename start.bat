@@ -1,1 +1,1 @@
-node puppet
+node %~dp0/puppet
